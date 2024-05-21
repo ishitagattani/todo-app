@@ -45,7 +45,7 @@ body{
     transform: translate(-50%, -50%);
 }
 .task.done{
-    opacity:0.5;
+    opacity:0.4;
     text-decoration: line-through;
     color: hsl(234, 11%, 52%);
 }
